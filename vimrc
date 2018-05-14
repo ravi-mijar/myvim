@@ -5,7 +5,7 @@ filetype on  "This sets the syntax for filetypes"
 syntax on "This sets syntax on"
 set hlsearch  "This highlights searches"
 color dracula  "Theme"
-set colourcolumn 90 "Sets a column at 90 chars"
+set colorcolumn 90 "Sets a column at 90 chars"
 
 filetype indent on  "Sets file indentation"
 set nowrap
